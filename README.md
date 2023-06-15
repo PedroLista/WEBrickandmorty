@@ -7,5 +7,5 @@
 ![What is this](Imagenes/2.png)
 ### JS para conexion entre la web y la API externa
 ![What is this](Imagenes/3.png)
-![What is this](Imagenes/4.png)
+
 
